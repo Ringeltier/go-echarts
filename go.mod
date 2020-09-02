@@ -1,4 +1,4 @@
-module github.com/Ringeltier/go-echarts
+module github.com/go-echarts/go-echarts
 
 go 1.13
 
